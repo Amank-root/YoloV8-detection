@@ -2,10 +2,6 @@
 
 This project uses YOLOv8 to detect metal bars on a conveyor belt and monitor if the conveyor has stopped moving. It provides visual alerts when the conveyor is halted.
 
-## Output
-
-https://github.com/user-attachments/assets/07570ad0-e790-46f1-be33-dae3d2ad3ffa
----
 
 ## Features
 
